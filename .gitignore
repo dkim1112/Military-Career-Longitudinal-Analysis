@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.envrc
+
+# Data files (raw)
+YP2021_EXCEL_0227/
+# Generated analysis outputs
+analysis_outputs/
+# Other raw data formats
+*.sas7bdat
+*.dta
+*.sav
+
+# Ignore large archives
+*.zip
+*.tar.gz
+
+# macOS
+*.DS_Store
+
+# VSCode settings
+.vscode/
